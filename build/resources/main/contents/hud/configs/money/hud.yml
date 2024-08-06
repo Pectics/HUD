@@ -1,9 +1,0 @@
-info:
-  namespace: hud
-huds:
-  money:
-    enabled: true
-    show:
-      auto: true
-      underwater: true
-    type: CUSTOM
